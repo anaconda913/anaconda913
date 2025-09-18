@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jonas.
+# 👋 Hi
 
 I'm a passionate **Web Developer** with experience building robust web applications using modern technologies and frameworks.
 
